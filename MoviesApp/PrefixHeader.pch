@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  MoviesApp
+//
+//  Created by Narlei A Moreira on 27/12/16.
+//  Copyright © 2016 Narlei A Moreira. All rights reserved.
+//
+
+
+// Default Values
+
+#define API_BASE_URL @"https://api.themoviedb.org/3/"
+#define API_TOKEN @"1f54bd990f1cdfb230adb312546d765d"
+#define API_BASE_IMAGE_URL @"https://image.tmdb.org/t/p/w185/"
+
+
+
+
+// Default Imports
+
+#import "Global.h"

@@ -1,0 +1,6 @@
+framework module EGOPhotoViewer {
+  umbrella header "EGOPhotoViewer-umbrella.h"
+
+  export *
+  module * { export * }
+}

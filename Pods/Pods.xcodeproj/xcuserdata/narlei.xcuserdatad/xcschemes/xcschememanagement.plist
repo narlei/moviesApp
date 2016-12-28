@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>EGOCache.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false />
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>EGOImageLoading.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false />
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>EGOPhotoViewer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false />
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-MoviesApp.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false />
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Reachability.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false />
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>TPKeyboardAvoiding.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false />
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>Unirest.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false />
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2ACF5D540CA648331F6BEB9DB7B5FF0B</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>52322EFDD7646AB646E8F42E1C52D57E</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>5F603C92C17D9CC31E152E573A09FACF</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>7F4C47EAD6EAF566E1372E41FB73EDC4</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>8DF3F55B09CA0FD63554408015AB8DEB</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>C2B77C3AB98DCC34E24B7A5B49B5A2CD</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>F0FE01A6B4D76C997D41C84329A95FB8</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+	</dict>
+</dict>
+</plist>
